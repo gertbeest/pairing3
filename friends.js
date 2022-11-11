@@ -5,6 +5,10 @@ for (i = 0; i <= 100; i++) {
     console.log(num[i])
 }
 
+for (i = 0; i <= 100; i++) {
+    if (num[i] <= 60)
+    console.log(num[i])
+}
 
 
 
